@@ -1,4 +1,4 @@
-package bibim.backend.Controller;
+package bibim.backend.controller;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
